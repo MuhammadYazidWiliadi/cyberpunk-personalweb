@@ -52,13 +52,13 @@ const Footer = () => {
             <h3 className="text-lg font-bold font-orbitron mb-4 text-primary">Contact</h3>
             <ul className="space-y-2">
               <li className="text-muted-foreground">
-                contact@example.com
+                wiliadiyaziiid@gmail.com
               </li>
               <li className="text-muted-foreground">
-                +1 (555) 123-4567
+                +62 812 9510 9399
               </li>
               <li className="text-muted-foreground">
-                New York City, USA
+                Bogor, Jawa Barat
               </li>
             </ul>
           </div>

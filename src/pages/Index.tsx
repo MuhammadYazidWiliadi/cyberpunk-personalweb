@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react';
 import { ArrowRight, ExternalLink, Github } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
-// Custom hook for typing animation
 const useTypingAnimation = (phrases: string[], typingSpeed: number = 150, deletingSpeed: number = 75, pauseTime: number = 1000) => {
   const [displayText, setDisplayText] = useState('');
   const [phraseIndex, setPhraseIndex] = useState(0);
