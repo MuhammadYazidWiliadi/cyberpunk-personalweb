@@ -29,7 +29,7 @@ const About = () => {
               <span className="w-1 h-1 rounded-full bg-primary"></span>
               <span className="mx-4">Designer</span>
               <span className="w-1 h-1 rounded-full bg-primary"></span>
-              <span className="ml-4">Digital Creator</span>
+              <span className="ml-4">Photographer</span>
             </div>
             <p className="text-lg mb-6">
               A passionate tech enthusiast with a flair for creating immersive digital experiences. 
